@@ -1,0 +1,1425 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix swrc: <http://swrc.ontoware.org/ontology#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix bench: <http://localhost/vocabulary/bench/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix person: <http://localhost/persons/> .
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding7> bench:booktitle "monopolistically popedom foreclose"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding7> swrc:pages "151"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding7> dc:title "exults foreclose devoice"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding7> foaf:homepage "http://www.popedom.tld/devoice/incriminates.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding7> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding7> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding7> dc:creator _:Blas_Revering.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding7> dc:creator <http://localhost/persons/Paul_Erdoes>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding8> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding8> bench:booktitle "foreclose incriminates deformity"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding8> swrc:pages "129"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding8> dc:title "devoice deformity bugeyes"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding8> foaf:homepage "http://www.incriminates.tld/bugeyes/rowan.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding8> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding8> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding8> dc:creator _:Blas_Revering.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding8> dc:creator <http://localhost/persons/Paul_Erdoes>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding9> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding9> bench:booktitle "deformity rowan pastimes"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding9> rdfs:seeAlso "http://www.bugeyes.tld/pastimes/beleaguered.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding9> swrc:pages "112"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding9> dc:title "rowan beleaguered isotopically"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding9> foaf:homepage "http://www.pastimes.tld/isotopically/skeletons.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding9> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding9> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding9> dc:creator _:Blas_Revering.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding9> dc:creator <http://localhost/persons/Paul_Erdoes>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding10> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding10> bench:booktitle "beleaguered skeletons bodings"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding10> swrc:pages "51"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding10> dc:title "isotopically bodings historians"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding10> foaf:homepage "http://www.skeletons.tld/historians/seizers.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding10> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding10> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding10> dc:creator _:Blas_Revering.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding10> dc:creator <http://localhost/persons/Paul_Erdoes>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding11> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding11> bench:booktitle "bodings seizers crackerjack"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding11> rdfs:seeAlso "http://www.historians.tld/crackerjack/queys.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding11> swrc:pages "103"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding11> dc:title "seizers queys tinkerer"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding11> foaf:homepage "http://www.crackerjack.tld/tinkerer/disestablismentarianism.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding11> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding11> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding11> dc:creator _:Myrna_Shurak.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding12> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding12> bench:booktitle "queys disestablismentarianism idealist"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding12> swrc:pages "174"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding12> dc:title "tinkerer idealist hatchelled"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding12> foaf:homepage "http://www.disestablismentarianism.tld/hatchelled/affirmatives.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding12> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding12> dc:creator _:Myrna_Shurak.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding12> dc:creator _:Elmedina_Hendrixson.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding13> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding13> bench:booktitle "idealist affirmatives hymnbooks"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding13> swrc:pages "84"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding13> dc:title "hatchelled hymnbooks muddily"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding13> foaf:homepage "http://www.affirmatives.tld/muddily/incorporating.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding13> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding13> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding13> dc:creator _:Myrna_Shurak.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding14> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding14> bench:booktitle "hymnbooks incorporating vegetables"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding14> swrc:pages "118"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding14> dc:title "muddily vegetables keying"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding14> foaf:homepage "http://www.incorporating.tld/keying/pickaxing.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding14> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding14> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding14> dc:creator _:Myrna_Shurak.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding14> dc:creator _:Elmedina_Hendrixson.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding15> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding15> bench:booktitle "vegetables pickaxing scapegraces"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding15> rdfs:seeAlso "http://www.keying.tld/scapegraces/harping.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding15> swrc:pages "153"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding15> dc:title "pickaxing harping redounds"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding15> foaf:homepage "http://www.scapegraces.tld/redounds/brothier.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding15> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding15> dc:creator _:Elmedina_Hendrixson.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding16> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding16> bench:booktitle "harping brothier rowboats"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding16> rdfs:seeAlso "http://www.redounds.tld/rowboats/jellyfishes.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding16> swrc:pages "135"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding16> dc:title "brothier jellyfishes boules"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding16> foaf:homepage "http://www.rowboats.tld/boules/gaoler.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding16> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding16> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding16> dc:creator _:Zelotes_Skelley.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding17> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding17> bench:booktitle "jellyfishes gaoler backtracking"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding17> rdfs:seeAlso "http://www.boules.tld/backtracking/raggedly.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding17> swrc:pages "159"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding17> dc:title "gaoler raggedly confining"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding17> foaf:homepage "http://www.backtracking.tld/confining/eggbeaters.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding17> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding17> dc:creator _:Zelotes_Skelley.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding18> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding18> bench:booktitle "raggedly eggbeaters flatways"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding18> dc:title "confining flatways outmarched"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding18> foaf:homepage "http://www.eggbeaters.tld/outmarched/engorge.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding18> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding18> dc:creator _:Zelotes_Skelley.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding19> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding19> bench:booktitle "flatways engorge rebecs"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding19> rdfs:seeAlso "http://www.outmarched.tld/rebecs/enthuses.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding19> swrc:pages "40"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding19> dc:title "engorge enthuses awakens"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding19> foaf:homepage "http://www.rebecs.tld/awakens/fluctuating.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding19> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding19> dc:creator _:Polazhitsa_Alameda.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding20> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding20> bench:booktitle "enthuses fluctuating golem"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding20> dc:title "awakens golem appareling"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding20> foaf:homepage "http://www.fluctuating.tld/appareling/nicer.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding20> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding20> dc:creator _:Polazhitsa_Alameda.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding21> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding21> bench:booktitle "golem nicer assaying"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding21> rdfs:seeAlso "http://www.appareling.tld/assaying/eggnogs.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding21> swrc:pages "103"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding21> dc:title "nicer eggnogs deciliter"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding21> foaf:homepage "http://www.assaying.tld/deciliter/homoerotism.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding21> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding21> dc:creator _:Polazhitsa_Alameda.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding22> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding22> bench:booktitle "eggnogs homoerotism disrupting"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding22> rdfs:seeAlso "http://www.deciliter.tld/disrupting/grievousness.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding22> swrc:pages "9"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding22> dc:title "homoerotism grievousness altitudes"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding22> foaf:homepage "http://www.disrupting.tld/altitudes/tastier.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding22> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding22> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding22> dc:creator _:Alcnaeon_Parolini.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding23> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding23> bench:booktitle "grievousness tastier repiners"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding23> dc:title "altitudes repiners brassard"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding23> foaf:homepage "http://www.tastier.tld/brassard/quarrying.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding23> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding23> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding23> dc:creator _:Alcnaeon_Parolini.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding24> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding24> bench:abstract "coagulability phlegmiest dharmas amplifiable unpredictability recapitulate foxiest cardinality burgeons recuses pieplants downfalls sparkily scabbing diapasons bootyless paretics muckraked carcinogenicity sellers reassimilating pleadable disassembles altering preestablished unvoiced transgresses priorities warier vindication ungrammatical hatpins appropriately spinelessly atomism subsequently valiance congeners disequilibrium halloas congratulating chirography carinas audiology kaleidoscopic chumships languages softened fubbing ethicists camembert gaits hatband posies stover relenting primitivity artificer refiltered nonplus cinematograph roentgenograms gauchest hedgerows surveillance motorbuses londoners goldsmiths kebabs propanes decontaminations unintellectual negotiations spookier lintel fingerprinted improvisational onanists pointiest consolingly bunglers frontiers efficiency bisexuals melodramatist huggable hempweed etheric souse weans tambur moralization firepan malefic somersaulted tsardoms poteens lynchers driftpin calibrated semolinas prenticing outdone hemostat falsifies midways gives effluvial unemphatic unjustly bighorn friability fishwife bumped inflicting tabors lapping unforgivable unwrap beckoningly resisters executes audiometries tugged crashers brightens maypole outlaw reinducing paisleys plaguers pollards kiefs nigher yummies orbited fanning summarizes segmented refractions reclothed axed ornamentations enormousness overrates molts ingrain beleapt megaphone genealogists tumour matters streptococcic peeving diffusely rehinged filibusters sharking atoned dramamine comradeship bassetting lugger claque honesties energetics blemishing seasoned progressing curses activity unmagnified oozing tibial obviates speared canards ethicals coulombs mutually broadens defectiveness astern nudged amortise harmed"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding24> bench:booktitle "repiners quarrying perfecters"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding24> swrc:pages "115"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding24> dc:title "brassard perfecters mistime"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding24> foaf:homepage "http://www.quarrying.tld/mistime/pokiness.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding24> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding24> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding24> dc:creator _:Alcnaeon_Parolini.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding25> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding25> bench:booktitle "perfecters pokiness orthopaedics"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding25> rdfs:seeAlso "http://www.mistime.tld/orthopaedics/abolitionists.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding25> swrc:pages "95"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding25> dc:title "pokiness abolitionists allocator"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding25> foaf:homepage "http://www.orthopaedics.tld/allocator/bootjacks.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding25> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding25> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding25> dc:creator _:Jody_Headlee.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding25> dc:creator _:Daisetsu_Angton.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding26> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding26> bench:booktitle "abolitionists bootjacks inheritances"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding26> bench:cdrom "http://www.allocator.tld/inheritances/accusatively.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding26> swrc:pages "52"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding26> dc:title "bootjacks accusatively romancer"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding26> foaf:homepage "http://www.inheritances.tld/romancer/tartly.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding26> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding26> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding26> dc:creator _:Jody_Headlee.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding27> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding27> bench:booktitle "accusatively tartly shysters"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding27> rdfs:seeAlso "http://www.romancer.tld/shysters/randomly.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding27> swrc:pages "180"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding27> dc:title "tartly randomly premiers"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding27> foaf:homepage "http://www.shysters.tld/premiers/saxhorns.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding27> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding27> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding27> dc:creator _:Jody_Headlee.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding28> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding28> bench:booktitle "randomly saxhorns beys"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding28> rdfs:seeAlso "http://www.premiers.tld/beys/unmanly.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding28> swrc:pages "32"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding28> dc:title "saxhorns unmanly sophs"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding28> foaf:homepage "http://www.beys.tld/sophs/hairpins.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding28> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding28> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding28> dc:creator _:Daisetsu_Angton.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding29> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding29> bench:booktitle "unmanly hairpins crossbreed"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding29> swrc:pages "144"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding29> dc:title "sophs crossbreed ignitible"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding29> foaf:homepage "http://www.hairpins.tld/ignitible/matadors.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding29> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding29> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding29> dc:creator _:Daisetsu_Angton.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding29> dcterms:references _:references32.
+_:references32 rdf:type rdf:Bag.
+_:references32 rdf:_1 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding28>.
+_:references32 rdf:_2 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding27>.
+_:references32 rdf:_3 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding26>.
+_:references32 rdf:_4 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding25>.
+_:references32 rdf:_5 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding24>.
+_:references32 rdf:_6 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding23>.
+_:references32 rdf:_7 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding22>.
+_:references32 rdf:_8 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding21>.
+_:references32 rdf:_9 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding19>.
+_:references32 rdf:_10 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding17>.
+_:references32 rdf:_11 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding14>.
+_:references32 rdf:_12 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding10>.
+_:references32 rdf:_13 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding6>.
+_:references32 rdf:_14 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding2>.
+_:references32 rdf:_15 <http://localhost/publications/inprocs/Proceeding1/1965/Inproceeding18>.
+_:references32 rdf:_16 <http://localhost/publications/inprocs/Proceeding1/1964/Inproceeding17>.
+_:references32 rdf:_17 <http://localhost/publications/inprocs/Proceeding1/1963/Inproceeding17>.
+_:references32 rdf:_18 <http://localhost/misc/UnknownDocument>.
+_:references32 rdf:_19 <http://localhost/misc/UnknownDocument>.
+_:references32 rdf:_20 <http://localhost/misc/UnknownDocument>.
+_:references32 rdf:_21 <http://localhost/misc/UnknownDocument>.
+_:references32 rdf:_22 <http://localhost/misc/UnknownDocument>.
+_:references32 rdf:_23 <http://localhost/misc/UnknownDocument>.
+_:references32 rdf:_24 <http://localhost/misc/UnknownDocument>.
+_:references32 rdf:_25 <http://localhost/misc/UnknownDocument>.
+_:references32 rdf:_26 <http://localhost/misc/UnknownDocument>.
+_:references32 rdf:_27 <http://localhost/misc/UnknownDocument>.
+_:references32 rdf:_28 <http://localhost/misc/UnknownDocument>.
+_:references32 rdf:_29 <http://localhost/misc/UnknownDocument>.
+_:references32 rdf:_30 <http://localhost/misc/UnknownDocument>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding30> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding30> bench:booktitle "crossbreed matadors maturational"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding30> swrc:pages "105"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding30> dc:title "ignitible maturational ration"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding30> foaf:homepage "http://www.matadors.tld/ration/enlarged.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding30> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding30> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding30> dc:creator _:Esinam_Guier.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding31> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding31> bench:booktitle "maturational enlarged dishcloths"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding31> rdfs:seeAlso "http://www.ration.tld/dishcloths/reabsorbed.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding31> swrc:pages "59"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding31> dc:title "enlarged reabsorbed authentications"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding31> foaf:homepage "http://www.dishcloths.tld/authentications/bouses.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding31> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding31> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding31> dc:creator _:Esinam_Guier.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding31> dc:creator _:Alfrred_Surprenant.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding32> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding32> bench:booktitle "reabsorbed bouses stashed"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding32> dc:title "authentications stashed knobbiness"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding32> foaf:homepage "http://www.bouses.tld/knobbiness/akvavits.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding32> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding32> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding32> dc:creator _:Esinam_Guier.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding32> dc:creator _:Alfrred_Surprenant.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding33> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding33> bench:booktitle "stashed akvavits plectrums"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding33> rdfs:seeAlso "http://www.knobbiness.tld/plectrums/columnal.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding33> swrc:pages "98"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding33> dc:title "akvavits columnal bubbles"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding33> foaf:homepage "http://www.plectrums.tld/bubbles/cliqued.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding33> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding33> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding33> dc:creator _:Alfrred_Surprenant.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding33> dc:creator _:Felippe_Desai.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding34> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding34> bench:booktitle "columnal cliqued certificated"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding34> rdfs:seeAlso "http://www.bubbles.tld/certificated/superannuation.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding34> swrc:pages "92"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding34> dc:title "cliqued superannuation calculabilities"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding34> foaf:homepage "http://www.certificated.tld/calculabilities/melanesian.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding34> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding34> dc:creator _:Felippe_Desai.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding35> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding35> bench:booktitle "superannuation melanesian avitaminosis"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding35> rdfs:seeAlso "http://www.calculabilities.tld/avitaminosis/villager.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding35> swrc:pages "118"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding35> dc:title "melanesian villager denationalizing"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding35> foaf:homepage "http://www.avitaminosis.tld/denationalizing/prejudging.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding35> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding35> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding35> dc:creator _:Felippe_Desai.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding35> dc:creator _:Akai_Qin.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding36> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding36> bench:booktitle "villager prejudging sphygmographic"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding36> rdfs:seeAlso "http://www.denationalizing.tld/sphygmographic/flossed.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding36> swrc:pages "88"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding36> dc:title "prejudging flossed communicating"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding36> foaf:homepage "http://www.sphygmographic.tld/communicating/touters.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding36> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding36> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding36> dc:creator _:Akai_Qin.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding37> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding37> bench:booktitle "flossed touters sprightliness"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding37> swrc:pages "118"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding37> dc:title "communicating sprightliness swingers"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding37> foaf:homepage "http://www.touters.tld/swingers/immaculacy.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding37> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding37> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding37> dc:creator _:Akai_Qin.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding38> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding38> bench:booktitle "sprightliness immaculacy unabated"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding38> rdfs:seeAlso "http://www.swingers.tld/unabated/uprisings.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding38> swrc:pages "15"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding38> dc:title "immaculacy uprisings numerating"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding38> foaf:homepage "http://www.unabated.tld/numerating/crosshatching.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding38> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding38> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding38> dc:creator _:Courtenay_Babjeck.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding39> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding39> bench:booktitle "uprisings crosshatching bluecoat"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding39> swrc:pages "137"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding39> dc:title "numerating bluecoat emeer"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding39> foaf:homepage "http://www.crosshatching.tld/emeer/wisps.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding39> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding39> dc:creator _:Courtenay_Babjeck.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding40> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding40> bench:booktitle "bluecoat wisps wishless"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding40> rdfs:seeAlso "http://www.emeer.tld/wishless/atoningly.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding40> swrc:pages "199"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding40> dc:title "wisps atoningly yetis"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding40> foaf:homepage "http://www.wishless.tld/yetis/pated.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding40> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding40> dc:creator _:Courtenay_Babjeck.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding41> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding41> bench:booktitle "atoningly pated crunchers"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding41> swrc:pages "180"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding41> dc:title "yetis crunchers glassblower"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding41> foaf:homepage "http://www.pated.tld/glassblower/smidgeons.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding41> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding41> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding41> dc:creator _:Margie_Terrebonne.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding42> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding42> bench:booktitle "crunchers smidgeons wallah"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding42> rdfs:seeAlso "http://www.glassblower.tld/wallah/searcher.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding42> swrc:pages "104"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding42> dc:title "smidgeons searcher haps"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding42> foaf:homepage "http://www.wallah.tld/haps/heteronomy.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding42> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding42> dc:creator _:Margie_Terrebonne.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding43> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding43> bench:booktitle "searcher heteronomy unconversant"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding43> bench:cdrom "http://www.haps.tld/unconversant/blueprinted.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding43> rdfs:seeAlso "http://www.heteronomy.tld/blueprinted/satisfiable.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding43> swrc:pages "169"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding43> dc:title "unconversant satisfiable spearfish"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding43> foaf:homepage "http://www.blueprinted.tld/spearfish/supersaturates.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding43> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding43> dc:creator _:Margie_Terrebonne.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding44> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding44> bench:booktitle "satisfiable supersaturates colonise"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding44> swrc:pages "115"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding44> dc:title "spearfish colonise sidetracking"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding44> foaf:homepage "http://www.supersaturates.tld/sidetracking/saxhorn.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding44> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding44> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding44> dc:creator _:Orino_Gauntt.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding45> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding45> bench:booktitle "colonise saxhorn undraped"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding45> rdfs:seeAlso "http://www.sidetracking.tld/undraped/unprovoked.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding45> swrc:pages "12"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding45> dc:title "saxhorn unprovoked chasten"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding45> foaf:homepage "http://www.undraped.tld/chasten/preachment.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding45> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding45> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding45> dc:creator _:Orino_Gauntt.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding45> dc:creator _:Taroemon_Tomlinson.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding46> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding46> bench:booktitle "unprovoked preachment mispronunciations"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding46> rdfs:seeAlso "http://www.chasten.tld/mispronunciations/forehead.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding46> swrc:pages "100"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding46> dc:title "preachment forehead arduously"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding46> foaf:homepage "http://www.mispronunciations.tld/arduously/presells.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding46> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding46> dc:creator _:Orino_Gauntt.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding47> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding47> bench:booktitle "forehead presells bimetal"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding47> swrc:pages "65"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding47> dc:title "arduously bimetal winker"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding47> foaf:homepage "http://www.presells.tld/winker/savable.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding47> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding47> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding47> dc:creator _:Taroemon_Tomlinson.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding47> dc:creator _:Komala_Mathieson.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding48> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding48> bench:booktitle "bimetal savable patchable"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding48> rdfs:seeAlso "http://www.winker.tld/patchable/underparts.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding48> swrc:pages "36"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding48> dc:title "savable underparts incarnation"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding48> foaf:homepage "http://www.patchable.tld/incarnation/delved.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding48> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding48> dc:creator _:Taroemon_Tomlinson.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding49> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding49> bench:booktitle "underparts delved bevels"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding49> swrc:pages "4"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding49> dc:title "incarnation bevels mamas"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding49> foaf:homepage "http://www.delved.tld/mamas/decocting.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding49> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding49> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding49> dc:creator _:Komala_Mathieson.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding50> rdf:type bench:Inproceedings.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding50> bench:booktitle "bevels decocting plundering"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding50> rdfs:seeAlso "http://www.mamas.tld/plundering/magnitudes.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding50> swrc:pages "88"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding50> dc:title "decocting magnitudes scribbling"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding50> foaf:homepage "http://www.plundering.tld/scribbling/popes.html"^^xsd:string.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding50> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding50> dcterms:partOf <http://localhost/publications/procs/Proceeding1/1967>.
+<http://localhost/publications/inprocs/Proceeding1/1967/Inproceeding50> dc:creator _:Komala_Mathieson.
+<http://localhost/publications/procs/Proceeding1/1967> swrc:editor <http://localhost/persons/Paul_Erdoes>.
+<http://localhost/publications/procs/Proceeding1/1967> swrc:editor _:Ricardo_Hauch.
+_:Ricardo_Hauch rdf:type foaf:Person.
+_:Ricardo_Hauch foaf:name "Ricardo Hauch"^^xsd:string.
+<http://localhost/publications/procs/Proceeding1/1967> swrc:editor _:Alliss_Whitener.
+_:Alliss_Whitener rdf:type foaf:Person.
+_:Alliss_Whitener foaf:name "Alliss Whitener"^^xsd:string.
+<http://localhost/publications/procs/Proceeding1/1967> swrc:editor _:Julietta_Goatley.
+_:Julietta_Goatley rdf:type foaf:Person.
+_:Julietta_Goatley foaf:name "Julietta Goatley"^^xsd:string.
+<http://localhost/publications/journals/Journal1/1967> rdf:type bench:Journal.
+<http://localhost/publications/journals/Journal1/1967> swrc:number "1"^^xsd:integer.
+<http://localhost/publications/journals/Journal1/1967> dc:title "Journal 1 (1967)"^^xsd:string.
+<http://localhost/publications/journals/Journal1/1967> swrc:volume "28"^^xsd:integer.
+<http://localhost/publications/journals/Journal1/1967> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article1> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article1> rdfs:seeAlso "http://www.scribbling.tld/pinesap/profoundest.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article1> swrc:pages "143"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article1> dc:title "popes profoundest aglare"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article1> foaf:homepage "http://www.pinesap.tld/aglare/stiffest.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article1> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article1> dc:creator _:Eichiro_Hodson.
+<http://localhost/publications/articles/Journal1/1967/Article2> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article2> swrc:pages "167"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article2> dc:title "profoundest stiffest progs"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article2> foaf:homepage "http://www.aglare.tld/progs/sawers.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article2> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article2> dc:creator _:Husaam_Dubbin.
+<http://localhost/publications/articles/Journal1/1967/Article3> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article3> rdfs:seeAlso "http://www.stiffest.tld/sawers/bints.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article3> swrc:pages "41"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article3> dc:title "progs bints doggy"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article3> foaf:homepage "http://www.sawers.tld/doggy/nankeen.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article3> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article3> dc:creator _:Tonniya_Klaas.
+<http://localhost/publications/articles/Journal1/1967/Article4> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article4> rdfs:seeAlso "http://www.bints.tld/nankeen/stereoscope.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article4> swrc:pages "87"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article4> dc:title "doggy stereoscope rulership"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article4> foaf:homepage "http://www.nankeen.tld/rulership/cogway.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article4> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article4> dc:creator _:Tathagata_Plato.
+<http://localhost/publications/articles/Journal1/1967/Article5> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article5> rdfs:seeAlso "http://www.stereoscope.tld/cogway/flypapers.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article5> swrc:pages "62"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article5> dc:title "rulership flypapers runtiness"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article5> foaf:homepage "http://www.cogway.tld/runtiness/crookedest.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article5> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article5> dc:creator _:Antonie_Leheny.
+<http://localhost/publications/articles/Journal1/1967/Article6> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article6> rdfs:seeAlso "http://www.flypapers.tld/crookedest/stipulations.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article6> swrc:pages "119"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article6> dc:title "runtiness stipulations contortionists"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article6> foaf:homepage "http://www.crookedest.tld/contortionists/briefly.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article6> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article6> dc:creator _:Myrtle_Joliet.
+<http://localhost/publications/articles/Journal1/1967/Article6> dc:creator _:Cornelia_Mckahan.
+<http://localhost/publications/articles/Journal1/1967/Article7> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article7> rdfs:seeAlso "http://www.stipulations.tld/briefly/wettable.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article7> swrc:pages "177"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article7> dc:title "contortionists wettable pinnacling"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article7> foaf:homepage "http://www.briefly.tld/pinnacling/ophthalmoscopy.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article7> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article7> dc:creator _:Shelia_Judy.
+<http://localhost/publications/articles/Journal1/1967/Article8> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article8> rdfs:seeAlso "http://www.wettable.tld/ophthalmoscopy/dismayed.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article8> swrc:pages "182"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article8> dc:title "pinnacling dismayed fuzees"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article8> foaf:homepage "http://www.ophthalmoscopy.tld/fuzees/repealable.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article8> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article8> dc:creator _:Georg_Prisk.
+<http://localhost/publications/articles/Journal1/1967/Article9> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article9> rdfs:seeAlso "http://www.dismayed.tld/repealable/marshes.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article9> swrc:pages "174"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article9> dc:title "fuzees marshes godding"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article9> foaf:homepage "http://www.repealable.tld/godding/anemometers.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article9> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article9> dc:creator _:Ammaar_Ormerod.
+<http://localhost/publications/articles/Journal1/1967/Article9> dcterms:references _:references34.
+_:references34 rdf:type rdf:Bag.
+_:references34 rdf:_1 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding28>.
+_:references34 rdf:_2 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding27>.
+_:references34 rdf:_3 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding26>.
+_:references34 rdf:_4 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding25>.
+_:references34 rdf:_5 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding24>.
+_:references34 rdf:_6 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding23>.
+_:references34 rdf:_7 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding20>.
+_:references34 rdf:_8 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding8>.
+_:references34 rdf:_9 <http://localhost/publications/inprocs/Proceeding1/1963/Inproceeding17>.
+_:references34 rdf:_10 <http://localhost/misc/UnknownDocument>.
+_:references34 rdf:_11 <http://localhost/misc/UnknownDocument>.
+_:references34 rdf:_12 <http://localhost/misc/UnknownDocument>.
+_:references34 rdf:_13 <http://localhost/misc/UnknownDocument>.
+_:references34 rdf:_14 <http://localhost/misc/UnknownDocument>.
+_:references34 rdf:_15 <http://localhost/misc/UnknownDocument>.
+_:references34 rdf:_16 <http://localhost/misc/UnknownDocument>.
+<http://localhost/publications/articles/Journal1/1967/Article10> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article10> swrc:pages "99"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article10> dc:title "marshes anemometers vitiating"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article10> foaf:homepage "http://www.godding.tld/vitiating/larceners.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article10> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article10> dc:creator _:Kasey_Matyas.
+<http://localhost/publications/articles/Journal1/1967/Article11> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article11> swrc:pages "50"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article11> dc:title "anemometers larceners demobbing"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article11> foaf:homepage "http://www.vitiating.tld/demobbing/fined.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article11> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article11> dc:creator _:Bemus_Ridens.
+<http://localhost/publications/articles/Journal1/1967/Article11> dc:creator _:ErcwIff_Meetze.
+<http://localhost/publications/articles/Journal1/1967/Article12> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article12> rdfs:seeAlso "http://www.larceners.tld/fined/woenesses.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article12> swrc:pages "120"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article12> dc:title "demobbing woenesses gamely"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article12> foaf:homepage "http://www.fined.tld/gamely/apparelling.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article12> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article12> dc:creator _:Julieta_Stlouise.
+<http://localhost/publications/articles/Journal1/1967/Article13> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article13> rdfs:seeAlso "http://www.woenesses.tld/apparelling/manoeuvering.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article13> swrc:pages "186"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article13> dc:title "gamely manoeuvering protectionist"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article13> foaf:homepage "http://www.apparelling.tld/protectionist/inabilities.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article13> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article13> dc:creator _:Casimir_Vilain.
+<http://localhost/publications/articles/Journal1/1967/Article14> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article14> rdfs:seeAlso "http://www.manoeuvering.tld/inabilities/flauntiest.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article14> swrc:pages "63"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article14> dc:title "protectionist flauntiest recused"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article14> foaf:homepage "http://www.inabilities.tld/recused/bulleting.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article14> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article14> dc:creator _:Shiba_Caples.
+<http://localhost/publications/articles/Journal1/1967/Article15> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article15> rdfs:seeAlso "http://www.flauntiest.tld/bulleting/subjoins.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article15> swrc:note "picarooned inoculations panzers unsticking nerd ended dynamical absorbing transepts stuffier"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article15> swrc:pages "174"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article15> dc:title "recused subjoins nonemotionally"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article15> foaf:homepage "http://www.bulleting.tld/nonemotionally/reconfigure.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article15> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article15> dc:creator _:Johan_Scully.
+<http://localhost/publications/articles/Journal1/1967/Article15> dc:creator _:Teodor_Rady.
+<http://localhost/publications/articles/Journal1/1967/Article16> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article16> rdfs:seeAlso "http://www.subjoins.tld/reconfigure/noninjuriousness.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article16> swrc:pages "70"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article16> dc:title "nonemotionally noninjuriousness sappily"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article16> foaf:homepage "http://www.reconfigure.tld/sappily/powerhouses.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article16> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article16> dc:creator _:Forest_Flax.
+<http://localhost/publications/articles/Journal1/1967/Article17> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article17> rdfs:seeAlso "http://www.noninjuriousness.tld/powerhouses/warns.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article17> swrc:note "pioneering noons eyeletted acupuncture germaniums boyishly explored pompons mangier brawns"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article17> swrc:pages "185"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article17> dc:title "sappily warns snaggy"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article17> foaf:homepage "http://www.powerhouses.tld/snaggy/indefensibility.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article17> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article17> dc:creator _:Florance_Golonka.
+<http://localhost/publications/articles/Journal1/1967/Article17> dc:creator _:ZefaAaden_Raridon.
+<http://localhost/publications/articles/Journal1/1967/Article18> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article18> rdfs:seeAlso "http://www.warns.tld/indefensibility/premieres.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article18> swrc:pages "183"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article18> dc:title "snaggy premieres alternateness"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article18> foaf:homepage "http://www.indefensibility.tld/alternateness/aeriest.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article18> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article18> dc:creator _:Dyvynarth_Pelc.
+<http://localhost/publications/articles/Journal1/1967/Article18> dc:creator _:Pongsona_Tijernia.
+<http://localhost/publications/articles/Journal1/1967/Article19> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article19> rdfs:seeAlso "http://www.premieres.tld/aeriest/necessariness.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article19> swrc:pages "25"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article19> dc:title "alternateness necessariness training"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article19> foaf:homepage "http://www.aeriest.tld/training/reweaving.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article19> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article19> dc:creator _:Gaius_Gonzalez.
+<http://localhost/publications/articles/Journal1/1967/Article20> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article20> swrc:note "unpopular squanderer butchering knockoff exorcize specialize fuzzing psychopaths distinctive"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article20> swrc:pages "123"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article20> dc:title "necessariness reweaving indomitably"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article20> foaf:homepage "http://www.training.tld/indomitably/limes.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article20> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article20> dc:creator _:Werburg_Saraiva.
+<http://localhost/publications/articles/Journal1/1967/Article21> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article21> rdfs:seeAlso "http://www.reweaving.tld/limes/tailskids.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article21> swrc:pages "151"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article21> dc:title "indomitably tailskids aud"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article21> foaf:homepage "http://www.limes.tld/aud/devolved.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article21> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article21> dc:creator _:Carlton_Feagley.
+<http://localhost/publications/articles/Journal1/1967/Article22> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article22> rdfs:seeAlso "http://www.tailskids.tld/devolved/throbbers.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article22> swrc:pages "60"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article22> dc:title "aud throbbers overtaxing"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article22> foaf:homepage "http://www.devolved.tld/overtaxing/ducting.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article22> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article22> dc:creator _:Lataesha_Tamburro.
+<http://localhost/publications/articles/Journal1/1967/Article23> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article23> rdfs:seeAlso "http://www.throbbers.tld/ducting/jellify.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article23> swrc:pages "128"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article23> dc:title "overtaxing jellify teetotum"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article23> foaf:homepage "http://www.ducting.tld/teetotum/searchable.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article23> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article23> dc:creator _:Kendall_Pinkney.
+<http://localhost/publications/articles/Journal1/1967/Article24> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article24> rdfs:seeAlso "http://www.jellify.tld/searchable/randoms.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article24> swrc:pages "97"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article24> dc:title "teetotum randoms tetra"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article24> foaf:homepage "http://www.searchable.tld/tetra/elixirs.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article24> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article24> dc:creator _:Gidayu_Namsaly.
+<http://localhost/publications/articles/Journal1/1967/Article25> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article25> rdfs:seeAlso "http://www.randoms.tld/elixirs/permissibility.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article25> dc:title "tetra permissibility redrafted"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article25> foaf:homepage "http://www.elixirs.tld/redrafted/feltings.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article25> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article25> dc:creator _:Najaat_Werma.
+<http://localhost/publications/articles/Journal1/1967/Article26> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article26> swrc:pages "189"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article26> dc:title "permissibility feltings schoolmistresses"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article26> foaf:homepage "http://www.redrafted.tld/schoolmistresses/lanciers.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article26> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article26> dc:creator _:Lysanne_Proo.
+<http://localhost/publications/articles/Journal1/1967/Article27> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article27> rdfs:seeAlso "http://www.feltings.tld/lanciers/dreidls.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article27> swrc:pages "51"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article27> dc:title "schoolmistresses dreidls viscidity"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article27> foaf:homepage "http://www.lanciers.tld/viscidity/farrago.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article27> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article27> dc:creator _:Brunhild_Seit.
+<http://localhost/publications/articles/Journal1/1967/Article28> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article28> swrc:pages "142"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article28> dc:title "dreidls farrago worshipping"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article28> foaf:homepage "http://www.viscidity.tld/worshipping/eulogizers.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article28> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article28> dc:creator _:Tawana_Mattingley.
+<http://localhost/publications/articles/Journal1/1967/Article29> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article29> rdfs:seeAlso "http://www.farrago.tld/eulogizers/interdistrict.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article29> swrc:pages "67"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article29> dc:title "worshipping interdistrict tapping"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article29> foaf:homepage "http://www.eulogizers.tld/tapping/blousiest.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article29> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article29> dc:creator _:Mada_Aleff.
+<http://localhost/publications/articles/Journal1/1967/Article30> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article30> rdfs:seeAlso "http://www.interdistrict.tld/blousiest/cradles.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article30> swrc:note "unintended preassign ogler faiths sporozoon enduing microstructure matless firebase"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article30> dc:title "tapping cradles embrocate"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article30> foaf:homepage "http://www.blousiest.tld/embrocate/layettes.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article30> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+<http://localhost/publications/articles/Journal1/1967/Article30> dc:creator _:Radosta_Rodvold.
+<http://localhost/publications/articles/Journal1/1967/Article509> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal1/1967/Article509> swrc:pages "92"^^xsd:integer.
+<http://localhost/publications/articles/Journal1/1967/Article509> dc:title "cradles layettes redeemer"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article509> foaf:homepage "http://www.embrocate.tld/redeemer/juntas.html"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article509> swrc:journal <http://localhost/publications/journals/Journal1/1967>.
+_:Kharitaniia_Iniguez rdf:type foaf:Person.
+_:Kharitaniia_Iniguez foaf:name "Kharitaniia Iniguez"^^xsd:string.
+<http://localhost/publications/articles/Journal1/1967/Article509> dc:creator _:Kharitaniia_Iniguez.
+<http://localhost/publications/journals/Journal1/1967> swrc:editor _:Crescentia_Mongeau.
+<http://localhost/publications/journals/Journal1/1967> swrc:editor _:Daisuke_Seidle.
+<http://localhost/publications/incolls/1967/Incollection1> rdf:type bench:Incollection.
+<http://localhost/publications/incolls/1967/Incollection1> bench:booktitle "layettes juntas erose"^^xsd:string.
+<http://localhost/publications/incolls/1967/Incollection1> swrc:pages "117"^^xsd:integer.
+<http://localhost/publications/incolls/1967/Incollection1> dc:title "redeemer erose encysting"^^xsd:string.
+<http://localhost/publications/incolls/1967/Incollection1> foaf:homepage "http://www.juntas.tld/encysting/tenders.html"^^xsd:string.
+<http://localhost/publications/incolls/1967/Incollection1> dcterms:issued "1967"^^xsd:integer.
+_:Shozo_Grandjean rdf:type foaf:Person.
+_:Shozo_Grandjean foaf:name "Shozo Grandjean"^^xsd:string.
+<http://localhost/publications/incolls/1967/Incollection1> dc:creator _:Shozo_Grandjean.
+<http://localhost/publications/journals/Journal2/1967> rdf:type bench:Journal.
+<http://localhost/publications/journals/Journal2/1967> swrc:number "1"^^xsd:integer.
+<http://localhost/publications/journals/Journal2/1967> dc:title "Journal 2 (1967)"^^xsd:string.
+<http://localhost/publications/journals/Journal2/1967> swrc:volume "19"^^xsd:integer.
+<http://localhost/publications/journals/Journal2/1967> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article31> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article31> swrc:pages "103"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article31> dc:title "encysting dayside unevener"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article31> foaf:homepage "http://www.tenders.tld/unevener/assafoetida.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article31> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article31> dc:creator _:Latreece_Whitebear.
+<http://localhost/publications/articles/Journal2/1967/Article32> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article32> swrc:pages "37"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article32> dc:title "dayside assafoetida reiterates"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article32> foaf:homepage "http://www.unevener.tld/reiterates/deathy.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article32> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article32> dc:creator _:Luce_Palmo.
+<http://localhost/publications/articles/Journal2/1967/Article33> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article33> rdfs:seeAlso "http://www.assafoetida.tld/deathy/cybernetically.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article33> swrc:pages "154"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article33> dc:title "reiterates cybernetically mayans"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article33> foaf:homepage "http://www.deathy.tld/mayans/volplaning.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article33> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article33> dc:creator _:Mariko_Etheredge.
+<http://localhost/publications/articles/Journal2/1967/Article33> dc:creator _:Agafiia_Rushford.
+<http://localhost/publications/articles/Journal2/1967/Article34> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article34> rdfs:seeAlso "http://www.cybernetically.tld/volplaning/claimed.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article34> swrc:pages "1"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article34> dc:title "mayans claimed weatherproofing"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article34> foaf:homepage "http://www.volplaning.tld/weatherproofing/proffered.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article34> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article34> dc:creator _:Adeeba_Pruette.
+<http://localhost/publications/articles/Journal2/1967/Article35> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article35> rdfs:seeAlso "http://www.claimed.tld/proffered/yeasting.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article35> swrc:pages "115"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article35> dc:title "weatherproofing yeasting onerosities"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article35> foaf:homepage "http://www.proffered.tld/onerosities/floes.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article35> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article35> dc:creator _:Haiyan_Yamaguchi.
+<http://localhost/publications/articles/Journal2/1967/Article35> dc:creator _:Kyon_Braucks.
+<http://localhost/publications/articles/Journal2/1967/Article36> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article36> rdfs:seeAlso "http://www.yeasting.tld/floes/breathier.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article36> swrc:pages "120"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article36> dc:title "onerosities breathier exports"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article36> foaf:homepage "http://www.floes.tld/exports/nonslip.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article36> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article36> dc:creator _:Jareer_Cure.
+<http://localhost/publications/articles/Journal2/1967/Article36> dc:creator _:Tierney_Stroll.
+<http://localhost/publications/articles/Journal2/1967/Article37> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article37> rdfs:seeAlso "http://www.breathier.tld/nonslip/daydreamers.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article37> swrc:pages "193"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article37> dc:title "exports daydreamers postbox"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article37> foaf:homepage "http://www.nonslip.tld/postbox/albumins.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article37> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article37> dc:creator _:Alek_Babson.
+<http://localhost/publications/articles/Journal2/1967/Article38> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article38> swrc:pages "142"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article38> dc:title "daydreamers albumins unrequited"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article38> foaf:homepage "http://www.postbox.tld/unrequited/euphonies.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article38> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article38> dc:creator _:Bleidd_Thackeray.
+<http://localhost/publications/articles/Journal2/1967/Article39> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article39> swrc:pages "106"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article39> dc:title "albumins euphonies doubleheaders"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article39> foaf:homepage "http://www.unrequited.tld/doubleheaders/nongregarious.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article39> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article39> dc:creator _:Nangka_Diver.
+<http://localhost/publications/articles/Journal2/1967/Article39> dc:creator _:Fatima_Mckissic.
+<http://localhost/publications/articles/Journal2/1967/Article40> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article40> rdfs:seeAlso "http://www.euphonies.tld/nongregarious/thinclad.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article40> swrc:pages "29"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article40> dc:title "doubleheaders thinclad spurrey"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article40> foaf:homepage "http://www.nongregarious.tld/spurrey/supered.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article40> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article40> dc:creator _:Liesa_Lansberry.
+<http://localhost/publications/articles/Journal2/1967/Article41> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article41> rdfs:seeAlso "http://www.thinclad.tld/supered/flenched.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article41> swrc:pages "149"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article41> dc:title "spurrey flenched batsman"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article41> foaf:homepage "http://www.supered.tld/batsman/syncoms.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article41> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article41> dc:creator _:Queisha_Dalpiaz.
+<http://localhost/publications/articles/Journal2/1967/Article42> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article42> dc:title "flenched syncoms steeliest"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article42> foaf:homepage "http://www.batsman.tld/steeliest/stagehand.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article42> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article42> dc:creator _:JesusErnesto_Leistner.
+<http://localhost/publications/articles/Journal2/1967/Article43> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article43> rdfs:seeAlso "http://www.syncoms.tld/stagehand/robing.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article43> swrc:pages "104"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article43> dc:title "steeliest robing ss"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article43> foaf:homepage "http://www.stagehand.tld/ss/washstand.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article43> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article43> dc:creator _:Anatole_Iacovetto.
+<http://localhost/publications/articles/Journal2/1967/Article44> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article44> rdfs:seeAlso "http://www.robing.tld/washstand/engirded.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article44> swrc:pages "169"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article44> dc:title "ss engirded assisters"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article44> foaf:homepage "http://www.washstand.tld/assisters/pommelled.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article44> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article44> dc:creator _:Sabana_Eshenbrenner.
+<http://localhost/publications/articles/Journal2/1967/Article45> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article45> rdfs:seeAlso "http://www.engirded.tld/pommelled/blinders.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article45> swrc:pages "190"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article45> dc:title "assisters blinders mentors"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article45> foaf:homepage "http://www.pommelled.tld/mentors/killed.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article45> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article45> dc:creator _:Wala_Dydo.
+<http://localhost/publications/articles/Journal2/1967/Article45> dc:creator _:Palma_Suwannakintho.
+<http://localhost/publications/articles/Journal2/1967/Article46> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article46> rdfs:seeAlso "http://www.blinders.tld/killed/ideologically.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article46> swrc:pages "58"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article46> dc:title "mentors ideologically bleeps"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article46> foaf:homepage "http://www.killed.tld/bleeps/stereotape.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article46> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article46> dc:creator _:Kateena_Schoeder.
+<http://localhost/publications/articles/Journal2/1967/Article47> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article47> rdfs:seeAlso "http://www.ideologically.tld/stereotape/persisting.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article47> swrc:pages "78"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article47> dc:title "bleeps persisting seekers"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article47> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article47> dc:creator _:Dubal_Zahradnik.
+<http://localhost/publications/articles/Journal2/1967/Article48> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article48> rdfs:seeAlso "http://www.stereotape.tld/seekers/despatched.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article48> swrc:pages "64"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article48> dc:title "persisting despatched meccas"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article48> foaf:homepage "http://www.seekers.tld/meccas/kremlinologists.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article48> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article48> dc:creator _:Takakazu_Boscarino.
+<http://localhost/publications/articles/Journal2/1967/Article49> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article49> swrc:pages "162"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article49> dc:title "despatched kremlinologists tossing"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article49> foaf:homepage "http://www.meccas.tld/tossing/irreplaceably.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article49> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article49> dc:creator _:Abaz_Carwell.
+<http://localhost/publications/articles/Journal2/1967/Article50> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article50> swrc:pages "145"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article50> dc:title "kremlinologists irreplaceably motorways"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article50> foaf:homepage "http://www.tossing.tld/motorways/unforgettable.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article50> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article50> dc:creator _:Sevastiiana_Heyne.
+<http://localhost/publications/articles/Journal2/1967/Article51> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article51> swrc:pages "19"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article51> dc:title "irreplaceably unforgettable governs"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article51> foaf:homepage "http://www.motorways.tld/governs/motorboats.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article51> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article51> dc:creator _:Ghaalib_Yunt.
+<http://localhost/publications/articles/Journal2/1967/Article52> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article52> swrc:pages "33"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article52> dc:title "unforgettable motorboats misdone"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article52> foaf:homepage "http://www.governs.tld/misdone/garlanded.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article52> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article52> dc:creator _:Gerbrug_Adamczak.
+<http://localhost/publications/articles/Journal2/1967/Article52> dc:creator _:Otojiro_Adsit.
+<http://localhost/publications/articles/Journal2/1967/Article53> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article53> rdfs:seeAlso "http://www.motorboats.tld/garlanded/tabasco.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article53> swrc:pages "39"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article53> dc:title "misdone tabasco botticelli"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article53> foaf:homepage "http://www.garlanded.tld/botticelli/neoplasms.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article53> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article53> dc:creator _:Gijs_Litman.
+<http://localhost/publications/articles/Journal2/1967/Article54> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article54> rdfs:seeAlso "http://www.tabasco.tld/neoplasms/stodgily.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article54> swrc:pages "128"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article54> dc:title "botticelli stodgily hiltless"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article54> foaf:homepage "http://www.neoplasms.tld/hiltless/barbarize.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article54> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article54> dc:creator _:Yarkona_Weiker.
+<http://localhost/publications/articles/Journal2/1967/Article55> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article55> rdfs:seeAlso "http://www.stodgily.tld/barbarize/simoleon.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article55> swrc:pages "135"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article55> dc:title "hiltless simoleon courting"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article55> foaf:homepage "http://www.barbarize.tld/courting/realest.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article55> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article55> dc:creator _:Yanni_Ancelet.
+<http://localhost/publications/articles/Journal2/1967/Article56> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article56> rdfs:seeAlso "http://www.simoleon.tld/realest/conquian.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article56> swrc:pages "200"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article56> dc:title "courting conquian priapism"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article56> foaf:homepage "http://www.realest.tld/priapism/noncontrastable.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article56> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article56> dc:creator _:Iason_Bronsky.
+<http://localhost/publications/articles/Journal2/1967/Article57> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article57> rdfs:seeAlso "http://www.conquian.tld/noncontrastable/sprat.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article57> swrc:pages "88"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article57> dc:title "priapism sprat decistere"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article57> foaf:homepage "http://www.noncontrastable.tld/decistere/therapeutist.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article57> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article57> dc:creator _:Jette_Kinnard.
+<http://localhost/publications/articles/Journal2/1967/Article58> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article58> rdfs:seeAlso "http://www.sprat.tld/therapeutist/radiobiology.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article58> swrc:pages "185"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article58> dc:title "decistere radiobiology oinking"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article58> foaf:homepage "http://www.therapeutist.tld/oinking/interleaf.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article58> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article58> dc:creator _:Kiara_Freund.
+<http://localhost/publications/articles/Journal2/1967/Article59> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article59> swrc:pages "33"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article59> dc:title "radiobiology interleaf odorizes"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article59> foaf:homepage "http://www.oinking.tld/odorizes/pharyngeal.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article59> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article59> dc:creator _:Emmanuel_Stpeters.
+<http://localhost/publications/articles/Journal2/1967/Article60> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article60> rdfs:seeAlso "http://www.interleaf.tld/pharyngeal/breezeway.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article60> swrc:pages "41"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article60> dc:title "odorizes breezeway conceders"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article60> foaf:homepage "http://www.pharyngeal.tld/conceders/denouncers.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article60> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article60> dc:creator _:Lela_Gruenhagen.
+<http://localhost/publications/articles/Journal2/1967/Article61> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article61> rdfs:seeAlso "http://www.breezeway.tld/denouncers/unwonted.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article61> swrc:pages "67"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article61> dc:title "conceders unwonted pensioners"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article61> foaf:homepage "http://www.denouncers.tld/pensioners/bedouins.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article61> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article61> dc:creator _:Khaalid_Heth.
+<http://localhost/publications/articles/Journal2/1967/Article61> dc:creator _:Lanza_Mediano.
+<http://localhost/publications/articles/Journal2/1967/Article62> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article62> rdfs:seeAlso "http://www.unwonted.tld/bedouins/iratest.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article62> swrc:pages "89"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article62> dc:title "pensioners iratest devitalized"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article62> foaf:homepage "http://www.bedouins.tld/devitalized/conservationists.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article62> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article62> dc:creator _:Tomomi_Fritzman.
+<http://localhost/publications/articles/Journal2/1967/Article63> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article63> rdfs:seeAlso "http://www.iratest.tld/conservationists/piddling.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article63> swrc:pages "67"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article63> dc:title "devitalized piddling attempter"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article63> foaf:homepage "http://www.conservationists.tld/attempter/waiter.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article63> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article63> dc:creator _:Fia_Cutone.
+<http://localhost/publications/articles/Journal2/1967/Article64> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article64> rdfs:seeAlso "http://www.piddling.tld/waiter/philippics.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article64> swrc:pages "4"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article64> dc:title "attempter philippics facer"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article64> foaf:homepage "http://www.waiter.tld/facer/outsells.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article64> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article64> dc:creator _:Unais_Machover.
+<http://localhost/publications/articles/Journal2/1967/Article65> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article65> swrc:pages "112"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article65> dc:title "philippics outsells reprobates"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article65> foaf:homepage "http://www.facer.tld/reprobates/besmears.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article65> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article65> dc:creator _:Ergyryad_Wolfe.
+<http://localhost/publications/articles/Journal2/1967/Article66> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article66> rdfs:seeAlso "http://www.outsells.tld/besmears/coordinations.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article66> swrc:pages "96"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article66> dc:title "reprobates coordinations cupped"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article66> foaf:homepage "http://www.besmears.tld/cupped/bander.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article66> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+<http://localhost/publications/articles/Journal2/1967/Article66> dc:creator _:Tracine_Vickey.
+<http://localhost/publications/articles/Journal2/1967/Article67> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article67> swrc:pages "186"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article67> dc:title "coordinations bander tomcat"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article67> foaf:homepage "http://www.cupped.tld/tomcat/unfaithful.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article67> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+_:Wladyka_Buttolph rdf:type foaf:Person.
+_:Wladyka_Buttolph foaf:name "Wladyka Buttolph"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article67> dc:creator _:Wladyka_Buttolph.
+<http://localhost/publications/articles/Journal2/1967/Article68> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article68> swrc:pages "9"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article68> dc:title "bander unfaithful inauspiciousness"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article68> foaf:homepage "http://www.tomcat.tld/inauspiciousness/expanses.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article68> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+_:Jennyfer_Blackwell rdf:type foaf:Person.
+_:Jennyfer_Blackwell foaf:name "Jennyfer Blackwell"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article68> dc:creator _:Jennyfer_Blackwell.
+<http://localhost/publications/articles/Journal2/1967/Article69> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article69> rdfs:seeAlso "http://www.unfaithful.tld/expanses/swapped.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article69> swrc:note "quitclaimed disappointments measuring harebell truckles fueling inflects flowage sniffingly postorbital"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article69> swrc:pages "117"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article69> dc:title "inauspiciousness swapped strongrooms"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article69> foaf:homepage "http://www.expanses.tld/strongrooms/sailors.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article69> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+_:Ernestina_Vanderheide rdf:type foaf:Person.
+_:Ernestina_Vanderheide foaf:name "Ernestina Vanderheide"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article69> dc:creator _:Ernestina_Vanderheide.
+<http://localhost/publications/articles/Journal2/1967/Article70> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article70> rdfs:seeAlso "http://www.swapped.tld/sailors/paunchiest.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article70> swrc:pages "160"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article70> dc:title "strongrooms paunchiest rankled"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article70> foaf:homepage "http://www.sailors.tld/rankled/cinctured.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article70> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+_:Hernandez_Simonsen rdf:type foaf:Person.
+_:Hernandez_Simonsen foaf:name "Hernandez Simonsen"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article70> dc:creator _:Hernandez_Simonsen.
+<http://localhost/publications/articles/Journal2/1967/Article71> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article71> swrc:pages "72"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article71> dc:title "paunchiest cinctured fiddled"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article71> foaf:homepage "http://www.rankled.tld/fiddled/blistering.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article71> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+_:Kristian_Morocco rdf:type foaf:Person.
+_:Kristian_Morocco foaf:name "Kristian Morocco"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article71> dc:creator _:Kristian_Morocco.
+<http://localhost/publications/articles/Journal2/1967/Article71> dcterms:references _:references35.
+_:references35 rdf:type rdf:Bag.
+_:references35 rdf:_1 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding28>.
+_:references35 rdf:_2 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding27>.
+_:references35 rdf:_3 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding26>.
+_:references35 rdf:_4 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding25>.
+_:references35 rdf:_5 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding23>.
+_:references35 rdf:_6 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding22>.
+_:references35 rdf:_7 <http://localhost/publications/inprocs/Proceeding1/1966/Inproceeding16>.
+_:references35 rdf:_8 <http://localhost/publications/inprocs/Proceeding1/1965/Inproceeding19>.
+_:references35 rdf:_9 <http://localhost/misc/UnknownDocument>.
+_:references35 rdf:_10 <http://localhost/misc/UnknownDocument>.
+_:references35 rdf:_11 <http://localhost/misc/UnknownDocument>.
+_:references35 rdf:_12 <http://localhost/misc/UnknownDocument>.
+_:references35 rdf:_13 <http://localhost/misc/UnknownDocument>.
+_:references35 rdf:_14 <http://localhost/misc/UnknownDocument>.
+_:references35 rdf:_15 <http://localhost/misc/UnknownDocument>.
+_:references35 rdf:_16 <http://localhost/misc/UnknownDocument>.
+_:references35 rdf:_17 <http://localhost/misc/UnknownDocument>.
+_:references35 rdf:_18 <http://localhost/misc/UnknownDocument>.
+_:references35 rdf:_19 <http://localhost/misc/UnknownDocument>.
+_:references35 rdf:_20 <http://localhost/misc/UnknownDocument>.
+_:references35 rdf:_21 <http://localhost/misc/UnknownDocument>.
+_:references35 rdf:_22 <http://localhost/misc/UnknownDocument>.
+<http://localhost/publications/articles/Journal2/1967/Article72> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article72> swrc:pages "133"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article72> dc:title "cinctured blistering discarded"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article72> foaf:homepage "http://www.fiddled.tld/discarded/normalizing.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article72> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+_:Bedwyr_Wandrie rdf:type foaf:Person.
+_:Bedwyr_Wandrie foaf:name "Bedwyr Wandrie"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article72> dc:creator _:Bedwyr_Wandrie.
+<http://localhost/publications/articles/Journal2/1967/Article73> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article73> swrc:pages "111"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article73> dc:title "blistering normalizing mistranslating"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article73> foaf:homepage "http://www.discarded.tld/mistranslating/versatilely.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article73> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+_:CaerLlion_Medico rdf:type foaf:Person.
+_:CaerLlion_Medico foaf:name "CaerLlion Medico"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article73> dc:creator _:CaerLlion_Medico.
+<http://localhost/publications/articles/Journal2/1967/Article74> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article74> bench:cdrom "http://www.normalizing.tld/versatilely/unexplained.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article74> rdfs:seeAlso "http://www.mistranslating.tld/unexplained/stockbrokerage.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article74> swrc:pages "78"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article74> dc:title "versatilely stockbrokerage premedical"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article74> foaf:homepage "http://www.unexplained.tld/premedical/supposed.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article74> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+_:Kunigonde_Bodenstein rdf:type foaf:Person.
+_:Kunigonde_Bodenstein foaf:name "Kunigonde Bodenstein"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article74> dc:creator _:Kunigonde_Bodenstein.
+_:Trayvon_Viner rdf:type foaf:Person.
+_:Trayvon_Viner foaf:name "Trayvon Viner"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article74> dc:creator _:Trayvon_Viner.
+<http://localhost/publications/articles/Journal2/1967/Article75> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal2/1967/Article75> rdfs:seeAlso "http://www.stockbrokerage.tld/supposed/nematode.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article75> swrc:pages "173"^^xsd:integer.
+<http://localhost/publications/articles/Journal2/1967/Article75> dc:title "premedical nematode animo"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article75> foaf:homepage "http://www.supposed.tld/animo/mongrels.html"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article75> swrc:journal <http://localhost/publications/journals/Journal2/1967>.
+_:Liona_Langill rdf:type foaf:Person.
+_:Liona_Langill foaf:name "Liona Langill"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article75> dc:creator _:Liona_Langill.
+_:Millie_Marian rdf:type foaf:Person.
+_:Millie_Marian foaf:name "Millie Marian"^^xsd:string.
+<http://localhost/publications/articles/Journal2/1967/Article75> dc:creator _:Millie_Marian.
+<http://localhost/publications/journals/Journal3/1967> rdf:type bench:Journal.
+<http://localhost/publications/journals/Journal3/1967> swrc:number "1"^^xsd:integer.
+<http://localhost/publications/journals/Journal3/1967> dc:title "Journal 3 (1967)"^^xsd:string.
+<http://localhost/publications/journals/Journal3/1967> swrc:volume "14"^^xsd:integer.
+<http://localhost/publications/journals/Journal3/1967> dcterms:issued "1967"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article76> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article76> rdfs:seeAlso "http://www.animo.tld/undercarriages/yachtswomen.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article76> swrc:pages "197"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article76> dc:title "mongrels yachtswomen beefily"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article76> foaf:homepage "http://www.undercarriages.tld/beefily/whetting.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article76> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Ai_Osmon rdf:type foaf:Person.
+_:Ai_Osmon foaf:name "Ai Osmon"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article76> dc:creator _:Ai_Osmon.
+_:Mikayla_Reynoza rdf:type foaf:Person.
+_:Mikayla_Reynoza foaf:name "Mikayla Reynoza"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article76> dc:creator _:Mikayla_Reynoza.
+<http://localhost/publications/articles/Journal3/1967/Article77> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article77> swrc:pages "45"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article77> dc:title "yachtswomen whetting gadgeteers"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article77> foaf:homepage "http://www.beefily.tld/gadgeteers/dissimulating.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article77> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Maurycy_Howdeshell rdf:type foaf:Person.
+_:Maurycy_Howdeshell foaf:name "Maurycy Howdeshell"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article77> dc:creator _:Maurycy_Howdeshell.
+<http://localhost/publications/articles/Journal3/1967/Article78> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article78> rdfs:seeAlso "http://www.whetting.tld/dissimulating/cuckooed.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article78> dc:title "gadgeteers cuckooed terrorized"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article78> foaf:homepage "http://www.dissimulating.tld/terrorized/unripely.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article78> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Akikazu_Scholz rdf:type foaf:Person.
+_:Akikazu_Scholz foaf:name "Akikazu Scholz"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article78> dc:creator _:Akikazu_Scholz.
+<http://localhost/publications/articles/Journal3/1967/Article79> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article79> swrc:pages "146"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article79> dc:title "cuckooed unripely disinfectant"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article79> foaf:homepage "http://www.terrorized.tld/disinfectant/affixers.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article79> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Aditi_Suffield rdf:type foaf:Person.
+_:Aditi_Suffield foaf:name "Aditi Suffield"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article79> dc:creator _:Aditi_Suffield.
+_:Xylo_Culbreath rdf:type foaf:Person.
+_:Xylo_Culbreath foaf:name "Xylo Culbreath"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article79> dc:creator _:Xylo_Culbreath.
+<http://localhost/publications/articles/Journal3/1967/Article80> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article80> rdfs:seeAlso "http://www.unripely.tld/affixers/wickers.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article80> swrc:pages "63"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article80> dc:title "disinfectant wickers reflexologist"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article80> foaf:homepage "http://www.affixers.tld/reflexologist/dottiest.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article80> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Aldonza_Ripplinger rdf:type foaf:Person.
+_:Aldonza_Ripplinger foaf:name "Aldonza Ripplinger"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article80> dc:creator _:Aldonza_Ripplinger.
+_:Kittiana_Cipkowski rdf:type foaf:Person.
+_:Kittiana_Cipkowski foaf:name "Kittiana Cipkowski"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article80> dc:creator _:Kittiana_Cipkowski.
+<http://localhost/publications/articles/Journal3/1967/Article81> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article81> rdfs:seeAlso "http://www.wickers.tld/dottiest/entrenchments.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article81> swrc:pages "165"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article81> dc:title "reflexologist entrenchments orang"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article81> foaf:homepage "http://www.dottiest.tld/orang/fastnesses.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article81> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Betty_Crosdale rdf:type foaf:Person.
+_:Betty_Crosdale foaf:name "Betty Crosdale"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article81> dc:creator _:Betty_Crosdale.
+<http://localhost/publications/articles/Journal3/1967/Article82> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article82> rdfs:seeAlso "http://www.entrenchments.tld/fastnesses/diaspora.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article82> swrc:pages "111"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article82> dc:title "orang diaspora reacquiring"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article82> foaf:homepage "http://www.fastnesses.tld/reacquiring/interjections.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article82> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Taylor_Jockers rdf:type foaf:Person.
+_:Taylor_Jockers foaf:name "Taylor Jockers"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article82> dc:creator _:Taylor_Jockers.
+<http://localhost/publications/articles/Journal3/1967/Article83> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article83> swrc:note "adventuresses foliages gristle frowziest papilla jackstraw cello marked grocers lightships"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article83> swrc:pages "18"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article83> dc:title "diaspora interjections girdlers"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article83> foaf:homepage "http://www.reacquiring.tld/girdlers/whirrs.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article83> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Inocenta_Smart rdf:type foaf:Person.
+_:Inocenta_Smart foaf:name "Inocenta Smart"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article83> dc:creator _:Inocenta_Smart.
+<http://localhost/publications/articles/Journal3/1967/Article84> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article84> rdfs:seeAlso "http://www.interjections.tld/whirrs/sloes.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article84> swrc:pages "43"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article84> dc:title "girdlers sloes maleficio"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article84> foaf:homepage "http://www.whirrs.tld/maleficio/windiness.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article84> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Cristina_Musick rdf:type foaf:Person.
+_:Cristina_Musick foaf:name "Cristina Musick"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article84> dc:creator _:Cristina_Musick.
+<http://localhost/publications/articles/Journal3/1967/Article85> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article85> rdfs:seeAlso "http://www.sloes.tld/windiness/jargonizing.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article85> dc:title "maleficio jargonizing dextrin"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article85> foaf:homepage "http://www.windiness.tld/dextrin/democracies.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article85> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Elijah_Bribiesca rdf:type foaf:Person.
+_:Elijah_Bribiesca foaf:name "Elijah Bribiesca"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article85> dc:creator _:Elijah_Bribiesca.
+<http://localhost/publications/articles/Journal3/1967/Article86> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article86> swrc:pages "188"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article86> dc:title "jargonizing democracies cuddlier"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article86> foaf:homepage "http://www.dextrin.tld/cuddlier/ideograms.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article86> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Arthwr_Kuklis rdf:type foaf:Person.
+_:Arthwr_Kuklis foaf:name "Arthwr Kuklis"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article86> dc:creator _:Arthwr_Kuklis.
+<http://localhost/publications/articles/Journal3/1967/Article87> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article87> rdfs:seeAlso "http://www.democracies.tld/ideograms/recrowns.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article87> swrc:pages "165"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article87> dc:title "cuddlier recrowns compendiums"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article87> foaf:homepage "http://www.ideograms.tld/compendiums/didactically.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article87> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Ezmeralda_Frizell rdf:type foaf:Person.
+_:Ezmeralda_Frizell foaf:name "Ezmeralda Frizell"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article87> dc:creator _:Ezmeralda_Frizell.
+<http://localhost/publications/articles/Journal3/1967/Article88> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article88> rdfs:seeAlso "http://www.recrowns.tld/didactically/acerb.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article88> swrc:pages "199"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article88> dc:title "compendiums acerb helipad"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article88> foaf:homepage "http://www.didactically.tld/helipad/harms.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article88> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Liuthild_Acors rdf:type foaf:Person.
+_:Liuthild_Acors foaf:name "Liuthild Acors"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article88> dc:creator _:Liuthild_Acors.
+<http://localhost/publications/articles/Journal3/1967/Article89> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article89> rdfs:seeAlso "http://www.acerb.tld/harms/blotchier.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article89> swrc:pages "184"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article89> dc:title "helipad blotchier jettying"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article89> foaf:homepage "http://www.harms.tld/jettying/fertility.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article89> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Gavin_Reynolds rdf:type foaf:Person.
+_:Gavin_Reynolds foaf:name "Gavin Reynolds"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article89> dc:creator _:Gavin_Reynolds.
+_:Rachael_Leichtenberge rdf:type foaf:Person.
+_:Rachael_Leichtenberge foaf:name "Rachael Leichtenberge"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article89> dc:creator _:Rachael_Leichtenberge.
+<http://localhost/publications/articles/Journal3/1967/Article90> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article90> rdfs:seeAlso "http://www.blotchier.tld/fertility/cheering.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article90> swrc:pages "82"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article90> dc:title "jettying cheering oesophagus"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article90> foaf:homepage "http://www.fertility.tld/oesophagus/camomiles.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article90> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Julianne_Delaremore rdf:type foaf:Person.
+_:Julianne_Delaremore foaf:name "Julianne Delaremore"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article90> dc:creator _:Julianne_Delaremore.
+_:Hitaishi_Trussell rdf:type foaf:Person.
+_:Hitaishi_Trussell foaf:name "Hitaishi Trussell"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article90> dc:creator _:Hitaishi_Trussell.
+<http://localhost/publications/articles/Journal3/1967/Article91> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article91> dc:title "cheering camomiles prologs"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article91> foaf:homepage "http://www.oesophagus.tld/prologs/promptly.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article91> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Baste_Oflaherty rdf:type foaf:Person.
+_:Baste_Oflaherty foaf:name "Baste Oflaherty"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article91> dc:creator _:Baste_Oflaherty.
+<http://localhost/publications/articles/Journal3/1967/Article92> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article92> rdfs:seeAlso "http://www.camomiles.tld/promptly/unclehood.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article92> swrc:pages "49"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article92> dc:title "prologs unclehood sunbows"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article92> foaf:homepage "http://www.promptly.tld/sunbows/panoplies.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article92> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Masahiro_Touchet rdf:type foaf:Person.
+_:Masahiro_Touchet foaf:name "Masahiro Touchet"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article92> dc:creator _:Masahiro_Touchet.
+<http://localhost/publications/articles/Journal3/1967/Article93> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article93> dc:title "unclehood panoplies japanners"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article93> foaf:homepage "http://www.sunbows.tld/japanners/psychologizing.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article93> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Leonie_Lentine rdf:type foaf:Person.
+_:Leonie_Lentine foaf:name "Leonie Lentine"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article93> dc:creator _:Leonie_Lentine.
+<http://localhost/publications/articles/Journal3/1967/Article94> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article94> swrc:pages "138"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article94> dc:title "panoplies psychologizing adjoints"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article94> foaf:homepage "http://www.japanners.tld/adjoints/undertakers.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article94> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Necie_Nacci rdf:type foaf:Person.
+_:Necie_Nacci foaf:name "Necie Nacci"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article94> dc:creator _:Necie_Nacci.
+_:Massimo_Reddig rdf:type foaf:Person.
+_:Massimo_Reddig foaf:name "Massimo Reddig"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article94> dc:creator _:Massimo_Reddig.
+<http://localhost/publications/articles/Journal3/1967/Article95> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article95> rdfs:seeAlso "http://www.psychologizing.tld/undertakers/tropically.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article95> swrc:pages "49"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article95> dc:title "adjoints tropically thieveries"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article95> foaf:homepage "http://www.undertakers.tld/thieveries/stalemates.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article95> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Mechthild_Tweed rdf:type foaf:Person.
+_:Mechthild_Tweed foaf:name "Mechthild Tweed"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article95> dc:creator _:Mechthild_Tweed.
+<http://localhost/publications/articles/Journal3/1967/Article96> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article96> rdfs:seeAlso "http://www.tropically.tld/stalemates/dowse.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article96> swrc:pages "145"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article96> dc:title "thieveries dowse swooper"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article96> foaf:homepage "http://www.stalemates.tld/swooper/covetously.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article96> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Catrina_Beneke rdf:type foaf:Person.
+_:Catrina_Beneke foaf:name "Catrina Beneke"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article96> dc:creator _:Catrina_Beneke.
+<http://localhost/publications/articles/Journal3/1967/Article97> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article97> swrc:pages "5"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article97> dc:title "dowse covetously schematics"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article97> foaf:homepage "http://www.swooper.tld/schematics/baubles.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article97> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:GIynn_Blanko rdf:type foaf:Person.
+_:GIynn_Blanko foaf:name "GIynn Blanko"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article97> dc:creator _:GIynn_Blanko.
+<http://localhost/publications/articles/Journal3/1967/Article98> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article98> rdfs:seeAlso "http://www.covetously.tld/baubles/sanatarium.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article98> swrc:pages "20"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article98> dc:title "schematics sanatarium beginnings"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article98> foaf:homepage "http://www.baubles.tld/beginnings/tragedienne.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article98> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Claudius_Gasaway rdf:type foaf:Person.
+_:Claudius_Gasaway foaf:name "Claudius Gasaway"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article98> dc:creator _:Claudius_Gasaway.
+<http://localhost/publications/articles/Journal3/1967/Article99> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article99> swrc:pages "14"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article99> dc:title "sanatarium tragedienne seisms"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article99> foaf:homepage "http://www.beginnings.tld/seisms/fishtails.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article99> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Tachiana_Shortnacy rdf:type foaf:Person.
+_:Tachiana_Shortnacy foaf:name "Tachiana Shortnacy"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article99> dc:creator _:Tachiana_Shortnacy.
+<http://localhost/publications/articles/Journal3/1967/Article100> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article100> rdfs:seeAlso "http://www.tragedienne.tld/fishtails/madcaps.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article100> swrc:pages "70"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article100> dc:title "seisms madcaps limiter"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article100> foaf:homepage "http://www.fishtails.tld/limiter/oceanology.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article100> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Nediva_Grasse rdf:type foaf:Person.
+_:Nediva_Grasse foaf:name "Nediva Grasse"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article100> dc:creator _:Nediva_Grasse.
+<http://localhost/publications/articles/Journal3/1967/Article101> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article101> rdfs:seeAlso "http://www.madcaps.tld/oceanology/testator.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article101> swrc:pages "134"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article101> dc:title "limiter testator singsongs"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article101> foaf:homepage "http://www.oceanology.tld/singsongs/mingling.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article101> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Masaki_Ayudan rdf:type foaf:Person.
+_:Masaki_Ayudan foaf:name "Masaki Ayudan"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article101> dc:creator _:Masaki_Ayudan.
+<http://localhost/publications/articles/Journal3/1967/Article102> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article102> swrc:pages "113"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article102> dc:title "testator mingling manipulator"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article102> foaf:homepage "http://www.singsongs.tld/manipulator/abashments.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article102> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Bela_Sporer rdf:type foaf:Person.
+_:Bela_Sporer foaf:name "Bela Sporer"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article102> dc:creator _:Bela_Sporer.
+<http://localhost/publications/articles/Journal3/1967/Article103> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article103> dc:title "mingling abashments trammed"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article103> foaf:homepage "http://www.manipulator.tld/trammed/denouncing.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article103> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Sawao_Camargo rdf:type foaf:Person.
+_:Sawao_Camargo foaf:name "Sawao Camargo"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article103> dc:creator _:Sawao_Camargo.
+<http://localhost/publications/articles/Journal3/1967/Article104> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article104> rdfs:seeAlso "http://www.abashments.tld/denouncing/jaggedest.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article104> swrc:pages "27"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article104> dc:title "trammed jaggedest winnower"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article104> foaf:homepage "http://www.denouncing.tld/winnower/pinyon.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article104> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Nikki_Klugh rdf:type foaf:Person.
+_:Nikki_Klugh foaf:name "Nikki Klugh"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article104> dc:creator _:Nikki_Klugh.
+<http://localhost/publications/articles/Journal3/1967/Article105> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article105> swrc:pages "1"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article105> dc:title "jaggedest pinyon overflew"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article105> foaf:homepage "http://www.winnower.tld/overflew/suppurations.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article105> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Demitrius_Glawson rdf:type foaf:Person.
+_:Demitrius_Glawson foaf:name "Demitrius Glawson"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article105> dc:creator _:Demitrius_Glawson.
+<http://localhost/publications/articles/Journal3/1967/Article106> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article106> rdfs:seeAlso "http://www.pinyon.tld/suppurations/prevalently.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article106> swrc:pages "191"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article106> dc:title "overflew prevalently misadventures"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article106> foaf:homepage "http://www.suppurations.tld/misadventures/pouters.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article106> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Karmen_Alemany rdf:type foaf:Person.
+_:Karmen_Alemany foaf:name "Karmen Alemany"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article106> dc:creator _:Karmen_Alemany.
+<http://localhost/publications/articles/Journal3/1967/Article107> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article107> rdfs:seeAlso "http://www.prevalently.tld/pouters/kalifate.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article107> swrc:pages "51"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article107> dc:title "misadventures kalifate eked"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article107> foaf:homepage "http://www.pouters.tld/eked/backups.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article107> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Ladona_Demel rdf:type foaf:Person.
+_:Ladona_Demel foaf:name "Ladona Demel"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article107> dc:creator _:Ladona_Demel.
+<http://localhost/publications/articles/Journal3/1967/Article108> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article108> rdfs:seeAlso "http://www.kalifate.tld/backups/vigorish.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article108> swrc:pages "68"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article108> dc:title "eked vigorish oatmeals"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article108> foaf:homepage "http://www.backups.tld/oatmeals/dustrag.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article108> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Gutta_Arenos rdf:type foaf:Person.
+_:Gutta_Arenos foaf:name "Gutta Arenos"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article108> dc:creator _:Gutta_Arenos.
+<http://localhost/publications/articles/Journal3/1967/Article109> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article109> rdfs:seeAlso "http://www.vigorish.tld/dustrag/deprecation.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article109> swrc:pages "84"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article109> dc:title "oatmeals deprecation maharajas"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article109> foaf:homepage "http://www.dustrag.tld/maharajas/infinites.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article109> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Jonah_Credle rdf:type foaf:Person.
+_:Jonah_Credle foaf:name "Jonah Credle"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article109> dc:creator _:Jonah_Credle.
+<http://localhost/publications/articles/Journal3/1967/Article110> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article110> dc:title "deprecation infinites approximated"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article110> foaf:homepage "http://www.maharajas.tld/approximated/smeltery.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article110> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Pelias_Turbeville rdf:type foaf:Person.
+_:Pelias_Turbeville foaf:name "Pelias Turbeville"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article110> dc:creator _:Pelias_Turbeville.
+<http://localhost/publications/articles/Journal3/1967/Article111> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article111> swrc:pages "38"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article111> dc:title "infinites smeltery factorize"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article111> foaf:homepage "http://www.approximated.tld/factorize/chubbily.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article111> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Ernestin_Fitzen rdf:type foaf:Person.
+_:Ernestin_Fitzen foaf:name "Ernestin Fitzen"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article111> dc:creator _:Ernestin_Fitzen.
+<http://localhost/publications/articles/Journal3/1967/Article112> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article112> swrc:pages "148"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article112> dc:title "smeltery chubbily whoremaster"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article112> foaf:homepage "http://www.factorize.tld/whoremaster/kings.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article112> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Binita_Araque rdf:type foaf:Person.
+_:Binita_Araque foaf:name "Binita Araque"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article112> dc:creator _:Binita_Araque.
+_:Llyr_Denning rdf:type foaf:Person.
+_:Llyr_Denning foaf:name "Llyr Denning"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article112> dc:creator _:Llyr_Denning.
+<http://localhost/publications/articles/Journal3/1967/Article113> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article113> rdfs:seeAlso "http://www.chubbily.tld/kings/sensibility.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article113> swrc:pages "115"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article113> dc:title "whoremaster sensibility enforcing"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article113> foaf:homepage "http://www.kings.tld/enforcing/trapeziums.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article113> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Fae_Tison rdf:type foaf:Person.
+_:Fae_Tison foaf:name "Fae Tison"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article113> dc:creator _:Fae_Tison.
+<http://localhost/publications/articles/Journal3/1967/Article114> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article114> rdfs:seeAlso "http://www.sensibility.tld/trapeziums/flagpoles.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article114> swrc:pages "115"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article114> dc:title "enforcing flagpoles execrations"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article114> foaf:homepage "http://www.trapeziums.tld/execrations/ratters.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article114> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Chico_Sebron rdf:type foaf:Person.
+_:Chico_Sebron foaf:name "Chico Sebron"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article114> dc:creator _:Chico_Sebron.
+<http://localhost/publications/articles/Journal3/1967/Article115> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article115> rdfs:seeAlso "http://www.flagpoles.tld/ratters/wondrously.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article115> swrc:pages "74"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article115> dc:title "execrations wondrously abilene"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article115> foaf:homepage "http://www.ratters.tld/abilene/chemoreception.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article115> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Okseniia_Ellingburg rdf:type foaf:Person.
+_:Okseniia_Ellingburg foaf:name "Okseniia Ellingburg"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article115> dc:creator _:Okseniia_Ellingburg.
+<http://localhost/publications/articles/Journal3/1967/Article116> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article116> rdfs:seeAlso "http://www.wondrously.tld/chemoreception/rhythmicity.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article116> dc:title "abilene rhythmicity procrastinates"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article116> foaf:homepage "http://www.chemoreception.tld/procrastinates/prawner.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article116> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Waseem_Lannier rdf:type foaf:Person.
+_:Waseem_Lannier foaf:name "Waseem Lannier"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article116> dc:creator _:Waseem_Lannier.
+_:German_Luo rdf:type foaf:Person.
+_:German_Luo foaf:name "German Luo"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article116> dc:creator _:German_Luo.
+<http://localhost/publications/articles/Journal3/1967/Article117> rdf:type bench:Article.
+<http://localhost/publications/articles/Journal3/1967/Article117> rdfs:seeAlso "http://www.rhythmicity.tld/prawner/grownups.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article117> swrc:pages "72"^^xsd:integer.
+<http://localhost/publications/articles/Journal3/1967/Article117> dc:title "procrastinates grownups agora"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article117> foaf:homepage "http://www.prawner.tld/agora/shutter.html"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article117> swrc:journal <http://localhost/publications/journals/Journal3/1967>.
+_:Nastasja_Kayser rdf:type foaf:Person.
+_:Nastasja_Kayser foaf:name "Nastasja Kayser"^^xsd:string.
+<http://localhost/publications/articles/Journal3/1967/Article117> dc:creator _:Nastasja_Kayser.
+<http://localhost/publications/journals/Journal3/1967> swrc:editor _:Rajab_Sikora.
+<http://localhost/publications/journals/Journal3/1967> swrc:editor _:Yukari_Pitcairn.
+<http://localhost/publications/journals/Journal3/1967> swrc:editor _:Reyes_Kluesner.
