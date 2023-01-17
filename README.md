@@ -25,6 +25,6 @@ Details the license agreement of EnerQuery: [LICENCE](LICENCE)
 ## Historic Contributors
 
 * [Mickael BARON](https://www.lias-lab.fr/members/mickaelbaron/)
-* [Ladjel BELLATRECHE](https://www.lias-lab.fr/members/ladjelbellatreche/)
+* [Ladjel BELLATRECHE](https://www.lias-lab.fr/members/bellatreche/)
 * [Géraud FOKOU](https://www.lias-lab.fr/members/geraudfokou/)
 * [Stéphane JEAN](https://www.lias-lab.fr/members/stephanejean/)
