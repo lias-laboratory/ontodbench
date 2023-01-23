@@ -22,7 +22,7 @@ All Ontodbench project files can be downloaded at https://github.com/lias-labora
 
 Details the license agreement of EnerQuery: [LICENCE](LICENCE)
 
-## Historic Contributors
+## Historic Contributors (alphabetical order)
 
 * [Mickael BARON](https://www.lias-lab.fr/members/mickaelbaron/)
 * [Ladjel BELLATRECHE](https://www.lias-lab.fr/members/bellatreche/)
