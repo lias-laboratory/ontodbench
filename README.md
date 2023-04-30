@@ -20,7 +20,7 @@ All Ontodbench project files can be downloaded at https://github.com/lias-labora
 
 ## Software licence agreement
 
-Details the license agreement of OntoDBench: [LICENCE](LICENCE)
+Details the license agreement of OntoDBench: [LICENSE](LICENSE)
 
 ## Historic Contributors (alphabetical order)
 
