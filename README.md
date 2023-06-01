@@ -18,7 +18,7 @@ All Ontodbench project files can be downloaded at https://github.com/lias-labora
 
 * Stéphane JEAN, Ladjel BELLATRECHE, Géraud FOKOU, Mickael BARON, Selma KHOURI, OntoDBench : Novel Benchmarking System for Ontology-Based Databases, Ontologies, DataBases, and Applications of Semantics (ODBASE 2012), Septembre, 2012
 
-## Software licence agreement
+## Software license agreement
 
 Details the license agreement of OntoDBench: [LICENSE](LICENSE)
 
